@@ -1,0 +1,27 @@
+# Ignore specific database and backup files
+EponaLands.db
+EponaLands.fwl
+EponaLands_backup_*.db
+EponaLands_backup_*.fwl
+LibertyCity_backup_*.db
+LibertyCity_backup_*.fwl
+MichiLand.fwl.old
+MichiLand_backup_auto-*.fwl
+MichiLand_backup_auto-*.db
+Mundo0_backup_auto-*.fwl
+PeroniaLands_backup_auto-*.fwl
+PeroniaLands_backup_auto-*.db
+PoopLands_backup_*.db
+PoopLands_backup_*.fwl
+Saber.fwl.old
+Saber_backup_auto-*.db
+Saber_backup_auto-*.fwl
+Thesou_backup_auto-*.fwl
+Thesou_backup_auto-*.db
+Verela_backup_*.db
+Verela_backup_*.fwl
+YMeQuieroIr.fwl.old
+YMeQuieroIr_backup_auto-*.fwl
+YMeQuieroIr_backup_auto-*.db
+YoelSuperStar4_backup_auto-*.fwl
+testsdasd_backup_auto-*.fwl
