@@ -7,7 +7,7 @@
 ## Cómo instalar Git en Windows y GitKraken
 
 ### Instalar Git en Windows
-1. Descarga el instalador de Git para Windows desde el sitio web oficial de Git [Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git) [[1](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)].
+1. Descarga el instalador de Git para Windows desde el sitio web oficial de Git [Git](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git) [[1](https://git-scm.com/downloads)].
 2. Ejecuta el instalador descargado y sigue las instrucciones del asistente de instalación.
 3. Durante la instalación, elige las opciones predeterminadas a menos que tengas una razón específica para cambiarlas.
 4. Una vez finalizada la instalación, verifica si Git se ha instalado correctamente abriendo una ventana de comandos (cmd) y escribiendo `git --version`. Deberías ver la versión de Git instalada.
